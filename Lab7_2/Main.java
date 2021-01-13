@@ -1,3 +1,4 @@
+// Phonkrit Chinatiworn 632115031
 package Lab7_2;
 import java.util.Scanner;
 
