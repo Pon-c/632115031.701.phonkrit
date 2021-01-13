@@ -1,5 +1,5 @@
 // Phonkrit Chinatiworn 632115031
-package Lab7_1;
+package week5.Lab7_1;
 public class MainApplication {
     public static void main(String[] args) {
         NerfGun gun1 = new NerfGun();

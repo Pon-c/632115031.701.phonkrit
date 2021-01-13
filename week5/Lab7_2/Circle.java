@@ -1,5 +1,5 @@
 // Phonkrit Chinatiworn 632115031
-package Lab7_2;
+package week5.Lab7_2;
 public class Circle {
     private double radius = 0;
     private double area = 0;

@@ -1,5 +1,5 @@
 // Phonkrit Chinatiworn 632115031
-package Lab7_1;
+package week5.Lab7_1;
 public class NerfGun {
     private int ID = 1;
     private int ammo = 0;
